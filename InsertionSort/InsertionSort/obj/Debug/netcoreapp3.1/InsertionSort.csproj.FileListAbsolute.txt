@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.exe
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.deps.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.csproj.AssemblyReference.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.genruntimeconfig.cache

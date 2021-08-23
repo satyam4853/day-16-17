@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\QueueUsingStack\QueueUsingStack\bin\Debug\netcoreapp3.1\QueueUsingStack.exe
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\QueueUsingStack\QueueUsingStack\bin\Debug\netcoreapp3.1\QueueUsingStack.deps.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\QueueUsingStack\QueueUsingStack\bin\Debug\netcoreapp3.1\QueueUsingStack.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\QueueUsingStack\QueueUsingStack\bin\Debug\netcoreapp3.1\QueueUsingStack.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\QueueUsingStack\QueueUsingStack\bin\Debug\netcoreapp3.1\QueueUsingStack.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\QueueUsingStack\QueueUsingStack\bin\Debug\netcoreapp3.1\QueueUsingStack.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\QueueUsingStack\QueueUsingStack\obj\Debug\netcoreapp3.1\QueueUsingStack.csproj.AssemblyReference.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\QueueUsingStack\QueueUsingStack\obj\Debug\netcoreapp3.1\QueueUsingStack.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\QueueUsingStack\QueueUsingStack\obj\Debug\netcoreapp3.1\QueueUsingStack.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\QueueUsingStack\QueueUsingStack\obj\Debug\netcoreapp3.1\QueueUsingStack.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\QueueUsingStack\QueueUsingStack\obj\Debug\netcoreapp3.1\QueueUsingStack.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\QueueUsingStack\QueueUsingStack\obj\Debug\netcoreapp3.1\QueueUsingStack.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\QueueUsingStack\QueueUsingStack\obj\Debug\netcoreapp3.1\QueueUsingStack.genruntimeconfig.cache

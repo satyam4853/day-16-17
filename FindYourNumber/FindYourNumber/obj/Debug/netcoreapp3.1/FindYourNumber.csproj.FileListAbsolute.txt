@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\FindYourNumber\FindYourNumber\bin\Debug\netcoreapp3.1\FindYourNumber.exe
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\FindYourNumber\FindYourNumber\bin\Debug\netcoreapp3.1\FindYourNumber.deps.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\FindYourNumber\FindYourNumber\bin\Debug\netcoreapp3.1\FindYourNumber.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\FindYourNumber\FindYourNumber\bin\Debug\netcoreapp3.1\FindYourNumber.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\FindYourNumber\FindYourNumber\bin\Debug\netcoreapp3.1\FindYourNumber.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\FindYourNumber\FindYourNumber\bin\Debug\netcoreapp3.1\FindYourNumber.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\FindYourNumber\FindYourNumber\obj\Debug\netcoreapp3.1\FindYourNumber.csproj.AssemblyReference.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\FindYourNumber\FindYourNumber\obj\Debug\netcoreapp3.1\FindYourNumber.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\FindYourNumber\FindYourNumber\obj\Debug\netcoreapp3.1\FindYourNumber.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\FindYourNumber\FindYourNumber\obj\Debug\netcoreapp3.1\FindYourNumber.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\FindYourNumber\FindYourNumber\obj\Debug\netcoreapp3.1\FindYourNumber.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\FindYourNumber\FindYourNumber\obj\Debug\netcoreapp3.1\FindYourNumber.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\FindYourNumber\FindYourNumber\obj\Debug\netcoreapp3.1\FindYourNumber.genruntimeconfig.cache

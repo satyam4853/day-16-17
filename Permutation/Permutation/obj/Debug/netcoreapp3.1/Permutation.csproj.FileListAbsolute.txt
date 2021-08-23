@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.exe
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.deps.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.csproj.AssemblyReference.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.genruntimeconfig.cache

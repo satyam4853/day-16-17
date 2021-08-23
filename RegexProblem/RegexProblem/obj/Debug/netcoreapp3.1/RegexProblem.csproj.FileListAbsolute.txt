@@ -1,0 +1,12 @@
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\RegexProblem\RegexProblem\bin\Debug\netcoreapp3.1\RegexProblem.exe
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\RegexProblem\RegexProblem\bin\Debug\netcoreapp3.1\RegexProblem.deps.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\RegexProblem\RegexProblem\bin\Debug\netcoreapp3.1\RegexProblem.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\RegexProblem\RegexProblem\bin\Debug\netcoreapp3.1\RegexProblem.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\RegexProblem\RegexProblem\bin\Debug\netcoreapp3.1\RegexProblem.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\RegexProblem\RegexProblem\bin\Debug\netcoreapp3.1\RegexProblem.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\RegexProblem\RegexProblem\obj\Debug\netcoreapp3.1\RegexProblem.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\RegexProblem\RegexProblem\obj\Debug\netcoreapp3.1\RegexProblem.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\RegexProblem\RegexProblem\obj\Debug\netcoreapp3.1\RegexProblem.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\RegexProblem\RegexProblem\obj\Debug\netcoreapp3.1\RegexProblem.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\RegexProblem\RegexProblem\obj\Debug\netcoreapp3.1\RegexProblem.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\Day16-17\RegexProblem\RegexProblem\obj\Debug\netcoreapp3.1\RegexProblem.genruntimeconfig.cache

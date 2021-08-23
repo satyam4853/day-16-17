@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\source\repos\CheckNumber_pr10\CheckNumber_pr10\bin\Debug\netcoreapp3.1\CheckNumber_pr10.exe
+C:\Users\SATYAM VAISHNAV\source\repos\CheckNumber_pr10\CheckNumber_pr10\bin\Debug\netcoreapp3.1\CheckNumber_pr10.deps.json
+C:\Users\SATYAM VAISHNAV\source\repos\CheckNumber_pr10\CheckNumber_pr10\bin\Debug\netcoreapp3.1\CheckNumber_pr10.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\source\repos\CheckNumber_pr10\CheckNumber_pr10\bin\Debug\netcoreapp3.1\CheckNumber_pr10.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\source\repos\CheckNumber_pr10\CheckNumber_pr10\bin\Debug\netcoreapp3.1\CheckNumber_pr10.dll
+C:\Users\SATYAM VAISHNAV\source\repos\CheckNumber_pr10\CheckNumber_pr10\bin\Debug\netcoreapp3.1\CheckNumber_pr10.pdb
+C:\Users\SATYAM VAISHNAV\source\repos\CheckNumber_pr10\CheckNumber_pr10\obj\Debug\netcoreapp3.1\CheckNumber_pr10.csproj.AssemblyReference.cache
+C:\Users\SATYAM VAISHNAV\source\repos\CheckNumber_pr10\CheckNumber_pr10\obj\Debug\netcoreapp3.1\CheckNumber_pr10.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\source\repos\CheckNumber_pr10\CheckNumber_pr10\obj\Debug\netcoreapp3.1\CheckNumber_pr10.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\source\repos\CheckNumber_pr10\CheckNumber_pr10\obj\Debug\netcoreapp3.1\CheckNumber_pr10.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\source\repos\CheckNumber_pr10\CheckNumber_pr10\obj\Debug\netcoreapp3.1\CheckNumber_pr10.dll
+C:\Users\SATYAM VAISHNAV\source\repos\CheckNumber_pr10\CheckNumber_pr10\obj\Debug\netcoreapp3.1\CheckNumber_pr10.pdb
+C:\Users\SATYAM VAISHNAV\source\repos\CheckNumber_pr10\CheckNumber_pr10\obj\Debug\netcoreapp3.1\CheckNumber_pr10.genruntimeconfig.cache

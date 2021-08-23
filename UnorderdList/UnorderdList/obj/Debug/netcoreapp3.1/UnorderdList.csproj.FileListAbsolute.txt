@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\source\repos\UnorderdList\UnorderdList\obj\Debug\netcoreapp3.1\UnorderdList.csproj.AssemblyReference.cache
+C:\Users\SATYAM VAISHNAV\source\repos\UnorderdList\UnorderdList\obj\Debug\netcoreapp3.1\UnorderdList.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\source\repos\UnorderdList\UnorderdList\obj\Debug\netcoreapp3.1\UnorderdList.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\source\repos\UnorderdList\UnorderdList\obj\Debug\netcoreapp3.1\UnorderdList.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\source\repos\UnorderdList\UnorderdList\bin\Debug\netcoreapp3.1\UnorderdList.exe
+C:\Users\SATYAM VAISHNAV\source\repos\UnorderdList\UnorderdList\bin\Debug\netcoreapp3.1\UnorderdList.deps.json
+C:\Users\SATYAM VAISHNAV\source\repos\UnorderdList\UnorderdList\bin\Debug\netcoreapp3.1\UnorderdList.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\source\repos\UnorderdList\UnorderdList\bin\Debug\netcoreapp3.1\UnorderdList.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\source\repos\UnorderdList\UnorderdList\bin\Debug\netcoreapp3.1\UnorderdList.dll
+C:\Users\SATYAM VAISHNAV\source\repos\UnorderdList\UnorderdList\bin\Debug\netcoreapp3.1\UnorderdList.pdb
+C:\Users\SATYAM VAISHNAV\source\repos\UnorderdList\UnorderdList\obj\Debug\netcoreapp3.1\UnorderdList.dll
+C:\Users\SATYAM VAISHNAV\source\repos\UnorderdList\UnorderdList\obj\Debug\netcoreapp3.1\UnorderdList.pdb
+C:\Users\SATYAM VAISHNAV\source\repos\UnorderdList\UnorderdList\obj\Debug\netcoreapp3.1\UnorderdList.genruntimeconfig.cache
